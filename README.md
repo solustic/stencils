@@ -1,7 +1,5 @@
 Vector drawings in SVG format of network devices for diagrams and monitoring maps
 
-
-
 ### Mikrotik
 
 * CCR1009-7G-1C-PC
@@ -11,6 +9,7 @@ Vector drawings in SVG format of network devices for diagrams and monitoring map
 * CCR1036-8G-2S+
 * CCR1036-12G-4S
 * CCR1072-1G-8S+
+* CCR2004-1G-12S+2XS
 * CRS125-24G-1S-RM
 * CRS317-1G-16S+
 * CRS326-24S+2Q+RM
@@ -19,7 +18,9 @@ Vector drawings in SVG format of network devices for diagrams and monitoring map
 * RB2011UiAS-RM
 * RB3011UiAS-RM
 
+### Proteco
 
+* INV-48/220-3KVA
 
 ### More shapes coming soon...
 
