@@ -18,6 +18,8 @@ Vector drawings in SVG format of network devices for diagrams and monitoring map
 * RB1100AHx4
 * RB2011UiAS-RM
 * RB3011UiAS-RM
+* RB2011UiAS-IN
+* RB2011UiAS-2HnD-IN
 
 
 ### Proteco
