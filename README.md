@@ -13,6 +13,7 @@ Vector drawings in SVG format of network devices for diagrams and monitoring map
 * CRS125-24G-1S-RM
 * CRS317-1G-16S+
 * CRS326-24S+2Q+RM
+* CRS326-24G-2S+RM
 * CRS354-48G-4S+2Q+RM
 * RB1100AHx4
 * RB2011UiAS-RM
